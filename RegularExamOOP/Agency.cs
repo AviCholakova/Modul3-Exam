@@ -13,7 +13,7 @@ namespace RegularExamOOP
 
         public Agency(string name)
         {
-            this.name = name;
+            this.Name = name;
             this.realEstates = new List<RealEstate>();
         }
 
